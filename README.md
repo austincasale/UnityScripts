@@ -30,11 +30,11 @@ PlayerPrefsKey.cs - Controls all Player preferences (anything specific to the ac
 MonsterAnimationControl.cs - Set in game monster animation based upon movement and powerups.
 
 
-https://cloud.githubusercontent.com/assets/18100457/26799725/bc866ea8-4a04-11e7-9901-ca3c5fda074e.png
-https://cloud.githubusercontent.com/assets/18100457/26799727/bd489276-4a04-11e7-8d46-98ce0d929404.png
-https://cloud.githubusercontent.com/assets/18100457/26799728/bddf432e-4a04-11e7-8b06-4ac3b1d88495.png
-https://cloud.githubusercontent.com/assets/18100457/26799730/be9e0700-4a04-11e7-8304-4e86c1b02f2d.png
-https://cloud.githubusercontent.com/assets/18100457/26799732/bf9b9870-4a04-11e7-86e5-6702d3aa05d0.png
-https://cloud.githubusercontent.com/assets/18100457/26799735/c13280ae-4a04-11e7-9603-cd60dc4e2897.png
-
-![code](https://cloud.githubusercontent.com/assets/18100457/26799469/ce588bc6-4a03-11e7-88b1-a6a78a8fa421.png)
+![graph](https://cloud.githubusercontent.com/assets/18100457/26799471/d008bafe-4a03-11e7-808f-6f01adbc481e.png)
+![screenshot_20170605-153208](https://cloud.githubusercontent.com/assets/18100457/26799725/bc866ea8-4a04-11e7-9901-ca3c5fda074e.png)
+![screenshot_20170605-153218](https://cloud.githubusercontent.com/assets/18100457/26799727/bd489276-4a04-11e7-8d46-98ce0d929404.png)
+![screenshot_20170605-153235](https://cloud.githubusercontent.com/assets/18100457/26799728/bddf432e-4a04-11e7-8b06-4ac3b1d88495.png)
+![screenshot_20170605-153227](https://cloud.githubusercontent.com/assets/18100457/26799730/be9e0700-4a04-11e7-8304-4e86c1b02f2d.png)
+![screenshot_20170605-153258](https://cloud.githubusercontent.com/assets/18100457/26799732/bf9b9870-4a04-11e7-86e5-6702d3aa05d0.png)
+![screenshot_20170605-153313](https://cloud.githubusercontent.com/assets/18100457/26799735/c13280ae-4a04-11e7-9603-cd60dc4e2897.png)
+![screenshot_20170605-153401](https://cloud.githubusercontent.com/assets/18100457/26799736/c24d4d0c-4a04-11e7-9cd9-cf85081aa7dc.png)
