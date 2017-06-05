@@ -30,7 +30,9 @@ PlayerPrefsKey.cs - Controls all Player preferences (anything specific to the ac
 MonsterAnimationControl.cs - Set in game monster animation based upon movement and powerups.
 
 
-![graph](https://cloud.githubusercontent.com/assets/18100457/26799471/d008bafe-4a03-11e7-808f-6f01adbc481e.png)
+Some images of the UI:
+Worked alongside a designer to bring their assets into unity and set up their designs as accurately as possible.
+
 ![screenshot_20170605-153208](https://cloud.githubusercontent.com/assets/18100457/26799725/bc866ea8-4a04-11e7-9901-ca3c5fda074e.png)
 ![screenshot_20170605-153218](https://cloud.githubusercontent.com/assets/18100457/26799727/bd489276-4a04-11e7-8d46-98ce0d929404.png)
 ![screenshot_20170605-153235](https://cloud.githubusercontent.com/assets/18100457/26799728/bddf432e-4a04-11e7-8b06-4ac3b1d88495.png)
