@@ -28,3 +28,6 @@ HudController.cs - Controls HUD functions for in game scenes.
 PlayerPrefsKey.cs - Controls all Player preferences (anything specific to the account we want to store, i.e. Highscores, avatar preference, etc.)
 
 MonsterAnimationControl.cs - Set in game monster animation based upon movement and powerups.
+
+
+https://cloud.githubusercontent.com/assets/18100457/26799725/bc866ea8-4a04-11e7-9901-ca3c5fda074e.png
