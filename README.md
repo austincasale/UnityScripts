@@ -22,3 +22,9 @@ HighScoreScript.cs - Update highscores after beating a level.
 ScoreManager.cs - Manage player health, manage player score, display score within lasso.
 
 BlurScript.cs - Handles pause menu and all actions contained within it.
+
+HudController.cs - Controls HUD functions for in game scenes.
+
+PlayerPrefsKey.cs - Controls all Player preferences (anything specific to the account we want to store, i.e. Highscores, avatar preference, etc.)
+
+MonsterAnimationControl.cs - Set in game monster animation based upon movement and powerups.
