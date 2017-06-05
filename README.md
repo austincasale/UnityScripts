@@ -2,7 +2,8 @@
 
 Work done for game on ios and android store: http://www.unmonsters.org/
 
-Handled sound, animations, HUD, highscores, Menus, and other aspects in Unity.
+Handled sound, animations, HUD, highscores, Menus, and other aspects in Unity. Worked alongside a designer to bring their assets into unity and set up their designs as accurately as possible. Also injected my own ideas after deliberating with the designer.
+
 
 DISCLAIMER: NOT ALL OF THIS CODE IS COMPLETE, MULTIPLE SCRIPTS INTERACT DUE TO THE OBJECT ORIENTED STRUCTURE AND ONLY SOME OF 
 THEM ARE PROVIDED HERE.
@@ -32,7 +33,6 @@ MonsterAnimationControl.cs - Set in game monster animation based upon movement a
 
 Some images of the UI:
 
-Worked alongside a designer to bring their assets into unity and set up their designs as accurately as possible.
 
 Main Menu
 ![screenshot_20170605-153208](https://cloud.githubusercontent.com/assets/18100457/26799725/bc866ea8-4a04-11e7-9901-ca3c5fda074e.png)
